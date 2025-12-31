@@ -13,4 +13,4 @@ I am a passionate **Data Scientist** and **Data Analyst** dedicated to transform
 
 ### 📫 Connect with me
 - 📧 **Email:** RahafAlowais@gmail.com
-- 💼 **LinkedIn:** 
+- 💼 **LinkedIn:** https://www.linkedin.com/in/rahaf-alowais-8b5728296
